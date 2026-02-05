@@ -1,0 +1,6 @@
+Pandas
+Numpy
+PySpark
+Databricks CLI
+LLM
+NLP
